@@ -20,6 +20,14 @@ pip install time
 pip install mediapipe
 ```
 
+## How the Project Looks
+
+### Drawing in Action
+![Drawing in Action](./header/1.png)
+
+### Finger Tracking Display
+![Finger Tracking Display](./header/2.png)
+
 ## Running the Application
 
 Once the libraries are installed, you can run the main application:
