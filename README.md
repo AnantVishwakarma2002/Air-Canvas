@@ -1,6 +1,4 @@
-# AI-powered Air Canvas
-
-*******************************WELCOME TO AI AIR CANVAS*******************************
+# Air Canvas
 
 An innovative application that allows users to create digital drawings by translating their finger movements into graphical representations using real-time computer vision.
 
